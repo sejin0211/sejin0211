@@ -1,4 +1,4 @@
-### Hi there 👋
+### 성실한 이세순
 
 <!--
 **sejin0211/sejin0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
